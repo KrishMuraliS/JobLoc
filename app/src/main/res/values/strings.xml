@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JobLocator</string>
+    <string name="rejected">REJECTED</string>
+    <string name="newjobs">NEW JOBS</string>
+    <string name="applied">APPLIED</string>
+    <string name="company">Company</string>
+    <string name="name">Name</string>
+    <string name="jobrole">Job Role</string>
+    <string name="experience">Experience</string>
+    <string name="address">Address</string>
+</resources>
